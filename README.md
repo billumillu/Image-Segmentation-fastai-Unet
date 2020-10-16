@@ -17,6 +17,7 @@ The masks in segmentation-masks contain at each pixel the id of the object. In o
 ['background', 'can', 'carton', 'milk_bottle', 'water_bottle']
 
 ## Model Performance
-
+![](https://github.com/billumillu/Image-Segmentation-fastai-Unet/blob/main/seg_output1.jpg)
 
 ## Test Image
+![](https://github.com/billumillu/Image-Segmentation-fastai-Unet/blob/main/seg_output.jpg)
