@@ -1,4 +1,4 @@
-# Image Segmentation fastai Unet
+# Image Segmentation | fastai Unet
 This implementation uses fastai's UNet model, where the CNN backbone (e.g. ResNet) is pre-trained on ImageNet and hence can be fine-tuned with only small amounts of annotated training examples.
 
 Different default parameters under MODEL_TYPE are provided for either a smaller model, or a deeper and wider model, which tends to have higher accuracy but can be a magnitude slower to train and run inference.
